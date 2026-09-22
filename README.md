@@ -65,7 +65,6 @@ Supported operations:
 
 Type `exit` to quit the calculator.
 
-Type exit to quit the calculator.
 
 ## Testing
 
